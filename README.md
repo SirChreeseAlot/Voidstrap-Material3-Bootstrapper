@@ -1,6 +1,7 @@
 # Material 3 Expressive — Voidstrap Custom Bootstrapper Theme
 
 [![Material Design 3](https://img.shields.io/badge/Design-Material%203%20(Material%20You)-6750A4?style=for-the-badge&logo=google)](https://m3.material.io/)
+[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge)](releases)
 [![Voidstrap Compatible](https://img.shields.io/badge/Voidstrap-Compatible-00C853?style=for-the-badge)](https://github.com/KloBraticc/Voidstrap)
 [![Platform Windows](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows)](https://microsoft.com/windows)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
