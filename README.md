@@ -30,7 +30,6 @@ This theme is designed exclusively for **Voidstrap**, an open-source, feature-pa
   - **Floating Squircle Avatar**: Clean, glow-free logo container with subtle drop shadows and interactive tactile bounce.
   - **Dynamic Progress Bar**: Smooth percentage transitions with indeterminate shimmer effect and a pill-shaped percentage badge.
 - **Fluid Transitions**: All color transitions run with smooth CSS transitions (`0.35s ease`), allowing live morphing as you change Windows colors.
-- **Startup Audio Support**: Optional startup sound playback upon launch.
 
 ---
 
