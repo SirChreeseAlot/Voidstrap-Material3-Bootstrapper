@@ -36,12 +36,21 @@ This theme is designed exclusively for **Voidstrap**, an open-source, feature-pa
 ## Preview
 
 <p align="center">
-  <img src="https://files.catbox.moe/ps6viy.png" alt="Material 3 Preview 1" width="48%" />
-  <img src="https://files.catbox.moe/2h7s8u.png" alt="Material 3 Preview 2" width="48%" />
+  <img src="https://files.catbox.moe/kg4sfl.png" alt="Material 3 Preview 1" width="48%" />
+  <img src="https://files.catbox.moe/fnrvxx.png" alt="Material 3 Preview 2" width="48%" />
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/7xfc2n.png" alt="Material 3 Preview 3" width="48%" />
-  <img src="https://files.catbox.moe/4wleff.png" alt="Material 3 Preview 4" width="48%" />
+  <img src="https://files.catbox.moe/ffqyib.png" alt="Material 3 Preview 3" width="48%" />
+  <img src="https://files.catbox.moe/1r2n3d.png" alt="Material 3 Preview 4" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://files.catbox.moe/hw38wu.png" alt="Material 3 Preview 1" width="48%" />
+  <img src="https://files.catbox.moe/d18cnp.png" alt="Material 3 Preview 2" width="48%" />
+</p>
+<p align="center">
+  <img src="https://files.catbox.moe/fdzs68.png" alt="Material 3 Preview 3" width="48%" />
+  <img src="https://files.catbox.moe/x4ymut.png" alt="Material 3 Preview 4" width="48%" />
 </p>
 
 ---
